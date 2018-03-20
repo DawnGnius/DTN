@@ -1,0 +1,34 @@
+﻿  DTN.cpp
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(32): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(64): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(161): warning C4101: “i”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(233): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(240): warning C4101: “v”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(240): warning C4101: “k”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(240): warning C4101: “w”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(240): warning C4101: “u”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(409): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(414): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(443): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(448): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(596): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(600): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(605): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(617): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(639): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(748): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(754): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(796): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(803): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(810): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(916): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(921): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(484): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(484): note: 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(256): warning C4101: “val4”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(256): warning C4101: “val3”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(256): warning C4101: “val1”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(256): warning C4101: “val2”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(353): warning C4101: “week”: 未引用的局部变量
+c:\users\administrator\documents\code\dtn\dtn\dtn.cpp(353): warning C4101: “loop”: 未引用的局部变量
+  DTN.vcxproj -> C:\Users\Administrator\Documents\Code\DTN\Debug\DTN.exe
